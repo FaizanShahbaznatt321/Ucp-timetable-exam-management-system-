@@ -1,0 +1,43 @@
+6
+C01
+Programming Fundamentals
+Sir Ahmed
+A-001
+1
+800
+930
+C02
+Essay Writing
+Asad
+A-202
+2
+930
+1100
+C03
+Civics
+Sir Bilal
+B-004
+3
+1100
+1230
+C041
+Calculus
+Sir Ali
+C-304
+1
+1300
+1430
+C05
+Physics
+Sir Saif
+A-105
+4
+800
+930
+c04
+Math
+Sir Saif
+A-105
+4
+700
+1200
